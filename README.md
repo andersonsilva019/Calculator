@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="250" height="400" src="https://github.com/andersonsilva019/Calculator/blob/master/assets/calculator%20(1).jpeg">
+  <img width="250" height="400" src="./assets/calculator.jpeg">
 </p>
 
 ## :computer: Projeto
